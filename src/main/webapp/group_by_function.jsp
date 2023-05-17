@@ -75,7 +75,7 @@
 </head>
 <body>
 	<h1>groupingSetList</h1>
-	<table>
+	<table border="1">
 		<tr>
 			<td>부서ID</td>
 			<td>직원ID</td>
@@ -95,7 +95,7 @@
 		%>
 	</table>
 	<h1>rollupList</h1>
-	<table>
+	<table border="1">
 		<tr>
 			<td>부서ID</td>
 			<td>직원ID</td>
@@ -115,7 +115,7 @@
 		%>
 	</table>
 	<h1>cubeList</h1>
-	<table>
+	<table border="1">
 		<tr>
 			<td>부서ID</td>
 			<td>직원ID</td>
