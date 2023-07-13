@@ -12,6 +12,7 @@
 	String dburl = "jdbc:oracle:thin:@localhost:1521:xe";
 	String dbuser = "HR";
 	String dbpw = "java1234";
+	
 	Class.forName(driver);
 	Connection conn = null;
 	conn = DriverManager.getConnection(dburl, dbuser, dbpw);
